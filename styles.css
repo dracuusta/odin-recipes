@@ -1,5 +1,7 @@
 h1{
     text-align: center;
+    background-color: rgb(168, 168, 197);
+    color:rgb(238, 255, 0);
 
 }
 
@@ -7,11 +9,6 @@ h1{
 
 body{
     background-color: bisque;
-}
-#Banner{
-    color:rgb(238, 255, 0);
-    background-color: rgb(168, 168, 197);
-    text-align: center;
 }
 
 p{
@@ -28,13 +25,13 @@ li{
     margin-right: 200px; /* add spacing between items */
 }
 
-.turkeyIMG {
-    display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
 h2{
     text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
